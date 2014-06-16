@@ -1,4 +1,4 @@
-update=Sun 15 Jun 2014 18:59:38 BST
+update=Mon 16 Jun 2014 18:18:43 BST
 version=1
 last_client=eeschema
 [cvpcb]
@@ -50,7 +50,7 @@ version=1
 PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
-LibDir=../ComponentLibrary
+LibDir=../../ComponentLibrary
 NetFmtName=
 RptD_X=0
 RptD_Y=100
